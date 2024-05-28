@@ -66,7 +66,7 @@ By the end of this course, students will achieve the following objectives:
 ### Conclusion
 The CSE 332 course is essential for students aiming to excel in the field of computer engineering. It provides a solid foundation in understanding how computers work, from the basic logic gates to complex multiprocessor systems. This course will equip you with the knowledge and skills necessary to design efficient and effective computing systems. Thank you for your interest, and I hope you find the **Circuit File** for the lab experiments useful.
 
-```markdown
+
 ### Other Universities Offering Similar Courses
 
 While CSE 332 at North South University covers computer organization and architecture, it's important to recognize that other universities may offer comparable courses under different names and course codes. Understanding this can help students from various institutions identify equivalent courses and access relevant resources to supplement their learning.
@@ -90,4 +90,3 @@ This course delves into the core concepts of computer systems engineering, explo
 - **Broader Perspective:** Understanding that similar courses are offered elsewhere fosters a broader perspective and promotes collaboration among students from different academic backgrounds.
 
 By acknowledging the existence of analogous courses at other universities, students can make informed decisions and enrich their learning experience beyond their immediate academic environment.
-```
