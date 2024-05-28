@@ -3,7 +3,7 @@
 **North South University, School of Engineering & Physical Sciences (SEPS)**
 
 ## Overview
-Hello, I am Syed Mozahidul Islam, a student of CSE at NSU. I am sharing the **Circuit Files** of CSE 332 Lab Experiments. This document provides a comprehensive summary and objectives of the CSE 332 course, enhancing your understanding of computer organization and architecture.
+Hello, I am **Syed Mozahidul Islam**, a student of **CSE at NSU.** I am sharing the **Circuit Files** of CSE 332 Lab Experiments. This document provides a comprehensive summary and objectives of the CSE 332 course, enhancing your understanding of computer organization and architecture.
 
 ### Course Summary
 CSE 332 introduces students to the fundamental concepts of computers, their design, and their operational principles. This course covers the following key areas:
